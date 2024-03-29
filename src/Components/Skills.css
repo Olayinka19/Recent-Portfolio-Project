@@ -1,0 +1,37 @@
+.skills ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .skills li {
+    margin-bottom: 10px;
+  }
+  
+  .skills-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .skills-list li {
+    margin-bottom: 20px;
+  }
+  
+  .skills-bar {
+    width: 0;
+    height: 10px;
+    background-color: #126ccb;
+    transition: width 1s ease-in-out;
+    -webkit-transition: width 1s ease-in-out;
+    -moz-transition: width 1s ease-in-out;
+    -ms-transition: width 1s ease-in-out;
+    -o-transition: width 1s ease-in-out;
+}
+  
+  .html {
+    width: 90%; /* Set your skill percentage */
+  }
+  
+  .js {
+    width: 80%; /* Set your skill percentage */
+  }

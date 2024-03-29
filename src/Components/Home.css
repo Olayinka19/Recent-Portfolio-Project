@@ -1,0 +1,27 @@
+.pfp{
+    width:300px;
+    height:300px;
+    padding: 20px 20px 30px 20px;
+    border-radius: 12% !important;
+    box-shadow: inset;
+    -webkit-border-radius: 12% !important;
+    -moz-border-radius: 12% !important;
+    -ms-border-radius: 12% !important;
+    -o-border-radius: 12% !important;
+}
+.pfp:hover{
+    width:350px;
+    height:350px;
+
+}
+
+.btn{
+width:220px;
+text-align: center;
+padding:20px;
+
+}
+
+.socio{
+    justify-content: space-between !important;
+}
