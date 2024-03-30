@@ -20,7 +20,7 @@ function Navbar() {
    <nav className="navbar">
       <div className="navbar-container">
         <div className={`navbar-logo ${isLogoDropdownOpen ? 'active' : ''}`} onClick={toggleLogoDropdown}>
-          <a href="/"><img alt="pfp" src={code} width="40px" height="40px" ></img> </a>
+          <a href="/"><img alt="pfp" src={ola} width="40px" height="40px" ></img> </a>
           <div className="dropdown-content">
             <a href="/Projects">Projects</a>
             <a href="/Resume">Resume</a>
