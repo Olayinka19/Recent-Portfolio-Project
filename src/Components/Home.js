@@ -95,7 +95,7 @@ From AI-powered chatbots revolutionizing customer service to the rise of immersi
     <img className='pfp1' alt="pfp" src={news} width="200px"></img> 
     
     </div>
-    <Button variant="outline-light"><a href="https://dly.to/F7Ou5SJwwNH" >App.daily.dev</a></Button>{' '}
+    {/* <Button variant="outline-light"><a href="https://dly.to/F7Ou5SJwwNH" >App.daily.dev</a></Button>{' '} */}
     {/* <button><a href="" ></a></button> */}
     {/* <img className='pfp' alt="pfp" src={img3} width="200px"></img>  */}
    
@@ -116,7 +116,7 @@ From AI-powered chatbots revolutionizing customer service to the rise of immersi
     <img className='pfp1' alt="pfp" src={ahead3} width="200px"></img> 
     <br />
     <br />
-    <Button variant="outline-light"><a href="https://ahead-store.netlify.app/" >Ahead-store</a></Button>{' '}
+    {/* <Button variant="outline-light"><a href="https://ahead-store.netlify.app/" >Ahead-store</a></Button>{' '} */}
     <br />
     {/* <img className='pfp' alt="pfp" src={os} width="200px"></img>  */}
     </div>
@@ -130,7 +130,7 @@ From AI-powered chatbots revolutionizing customer service to the rise of immersi
     <br />
     <br />
     {/* <img className='pfp' alt="pfp" src={code} width="200px"  ></img>  */}
-    <Button variant="outline-light"><a href="https://ola-pawster.netlify.app/" >Pawster.store</a></Button>{' '}
+    {/* <Button variant="outline-light"><a href="https://ola-pawster.netlify.app/" >Pawster.store</a></Button>{' '} */}
     
     </div>
     <div>
