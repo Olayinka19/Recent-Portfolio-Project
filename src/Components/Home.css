@@ -28,7 +28,51 @@ padding:20px;
 .body{
     background-image: ("");
 }
+.main-container{
+display:flex;
+flex-direction: row;
+justify-content: space-between;
+padding:20px;
+flex-wrap: wrap;
+flex-grow: 6;
 
-.container{
+}
+
+.container{ 
+    width: 400px;
+    height:400px;
+    border: 3px solid transparent;
+    padding: 20px 20px;
     
+    /* display: flex;
+    flex-wrap: wrap;
+    flex-grow: 6; */
+    /* order: 6 */
+    /* width : 400px */
+    /* border: 3px solid transparent; */
+    
+}
+.second-cont{
+    width: 400px;
+    height:400px;
+    border: 3px solid transparent;
+    padding: 20px 20px;
+}
+
+.third-cont{
+    width: 400px;
+    height:400px;
+    border: 3px solid transparent;
+    padding: 20px 20px;
+}
+.pfp1{
+    border-radius: 12%;
+    -webkit-border-radius: 12%;
+    -moz-border-radius: 12%;
+    -ms-border-radius: 12%;
+    -o-border-radius: 12%;
+}
+.pfp1:hover{
+    width: 200px;
+    height:200px;
 }

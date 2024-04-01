@@ -1,5 +1,6 @@
 import React from 'react'
 import './Skills.css'
+import ProgressBar from 'react-bootstrap/ProgressBar';
 function Skills() {
   return (
     <div>
