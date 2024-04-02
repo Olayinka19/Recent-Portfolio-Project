@@ -8,13 +8,17 @@ import Navbar from './Components/Navbar';
 import Projects from './Components/Projects';
 import Skills from './Components/Skills';
 import Footer from './Components/Footer';
+import ParticlesBackground from './Components/ParticlesBackground';
+// import Particles, { ISourceOptions } from "react-tsparticles";
 
 import './App.css';
 
 function App() {
+  
   return (
     <div className="App app-container">
     <Navbar/>
+    <ParticlesBackground />
     <Router>
       <Routes>
         <Route path="/" element={<Home/>} />
